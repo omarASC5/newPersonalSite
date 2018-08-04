@@ -1,0 +1,28 @@
+body, html {
+    display: flex;
+    margin: 0;
+    height: 100vh;
+    overflow: hidden;
+}
+img {
+    
+}
+
+.left_side {
+    background-image: url("../../assets/IMG_2207.PNG");
+    width: 300px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.content {
+    overflow-y: scroll;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
